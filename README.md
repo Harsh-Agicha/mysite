@@ -1,2 +1,3 @@
 # mysite
-simple django pro
+simple django pro demo
+
